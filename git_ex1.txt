@@ -1,0 +1,8 @@
+Git : it is a version control system.
+for example :we r working on a project and due to 
+traffic we come across bugs while redeploying, so to bring 
+the project back to a state where there is no bugs ,
+we need to save that in a remote repository for that we use git.
+git init:git initialization
+git add: to move file from working directory to staging area 
+git commit: to move bunch of file at a time from staging area to local directory
